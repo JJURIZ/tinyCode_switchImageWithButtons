@@ -1,0 +1,17 @@
+img {
+    height: 350px;
+    width: 500px;
+}
+
+button {
+    background-color: aqua;
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    margin: 2px;
+}
+
+#image_controls {
+    display: flex;
+}
